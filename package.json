@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "nodemon": "^3.1.14"
+  },
+  "name": "git_full_node_express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Server.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
