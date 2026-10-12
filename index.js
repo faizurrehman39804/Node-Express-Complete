@@ -6,10 +6,9 @@ const server = express();
 // });
 
 server.get('/', (req, res) => {
-  res.send("Geee Jinab..........");    
+  res.send("Geee Jinab.......");
 });
 
-server.listen(7000, () => { 
-  console.log("http://localhost:7000");
- });
- 
+// server.listen(4000, () => { 
+//   console.log("http://localhost:4000");
+//  });
