@@ -1,10 +1,10 @@
-const http = require('http');
+// const http = require('http');
 
-const server = http.createServer((req, res) => {
-  res.end('Hello, World!');
-}
-);
+// const server = http.createServer((req, res) => {
+//   res.end('Hello, World!');
+// }
+// );
 
-server.listen(4000, () => {
-  console.log(`Server running at http://localhost:4000/`);
-});
+// server.listen(4000, () => {
+//   console.log(`Server running at http://localhost:4000/`);
+// });
