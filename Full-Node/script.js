@@ -26,7 +26,12 @@ const app = express()
 
 app.get('/', (req, res) => {
   res.send('Hello World')
-})
+});
+
+app.get('/secend', (req,res) => {
+  res.send('page ka secend page')
+});
+
 
 app.listen(3000, () => {
   console.log('Server is running on http://localhost:3000')
