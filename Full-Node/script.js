@@ -18,10 +18,10 @@
 import express from 'express'
 const app = express()
 
-app.use(function (req,res,next) {
-  console.log('middle where is started');
-  next();
-});
+// app.use(function (req,res,next) {
+//   console.log('middle where is started');
+//   next();
+// });
 
 
 app.get('/', (req, res) => {
