@@ -10,14 +10,19 @@
 // const http = require('http');
 
 // const server = http.createServer(function (req,res) {
-//   res.end("Hiii jinab");
+//   res.end("Hiii jinab"); 
 // })
 
 // server.listen(4000);
 
 import express from 'express'
-
 const app = express()
+
+app.use(function (req,res,next) {
+  console.log('middle where is started');
+  next();
+});
+
 
 app.get('/', (req, res) => {
   res.send('Hello World')
