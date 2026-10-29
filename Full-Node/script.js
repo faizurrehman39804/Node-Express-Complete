@@ -18,21 +18,32 @@
 import express from 'express'
 const app = express()
 
-// app.use(function (req,res,next) {
-//   console.log('middle where is started');
-//   next();
-// });
-
-
-app.get('/', (req, res) => {
-  res.send('Hello World')
+app.use(function (req,res,next) {
+  console.log('middle 1st chala');
+  next();
 });
 
-app.get('/secend', (req,res) => {
-  res.send('page ka secend page')
+app.use(function (req,res,next) {
+  console.log('m iddle wher 2st time chala');
+  next();
 });
 
+app.get('/',function (req, res,next) {
+  res.send("No Rout page ha ya")
+});
 
-app.listen(3000, () => {
-  console.log('Server is running on http://localhost:3000')
-})
+app.get('/about', function(req,res) {
+  res.send("<h1>about page ha ya<h1>")
+});
+
+app.get('/profile', function(req,res,next) {
+  return next(new Error("Some think went rong"))
+});
+
+app.use((err, req, res, next) => {
+  console.error(err.stack);
+  res.status(500).send('Something broke!');
+});
+
+app.listen(3000);
+  
