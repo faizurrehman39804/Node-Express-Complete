@@ -77,8 +77,8 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 1209.0365261158208,
-			"y": -1417.9886302979023,
+			"x": 1221.7952866702144,
+			"y": -776.8634068090571,
 			"rotation": 0,
 			"isLocked": false,
 			"opacity": 1,
@@ -192,8 +192,8 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 1234.796531271513,
-			"y": -1182.0705666869806,
+			"x": 1247.5552918259066,
+			"y": -540.9453431981353,
 			"rotation": 0,
 			"isLocked": false,
 			"opacity": 1,
@@ -226,8 +226,8 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 2278.806508000467,
-			"y": -1390.1986915554157,
+			"x": 2291.5652685548607,
+			"y": -749.0734680665705,
 			"rotation": 0,
 			"isLocked": false,
 			"opacity": 1,
@@ -260,8 +260,8 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 1758.451125505535,
-			"y": -1557.3931114268914,
+			"x": 1771.2098860599285,
+			"y": -916.2678879380462,
 			"rotation": 0,
 			"isLocked": false,
 			"opacity": 1,
@@ -333,9 +333,9 @@
 			"typeName": "shape"
 		},
 		{
-			"x": -272.90268667878127,
-			"y": 2995.204042132965,
-			"z": 0.2344808893500032,
+			"x": 2180.4483582309817,
+			"y": 3242.579560352112,
+			"z": 0.12540450905825767,
 			"meta": {},
 			"id": "camera:page:page",
 			"typeName": "camera"
@@ -426,8 +426,8 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 1444.796531271513,
-			"y": -972.0705666869806,
+			"x": 1457.5552918259066,
+			"y": -330.94534319813533,
 			"rotation": 0,
 			"isLocked": false,
 			"opacity": 1,
@@ -460,8 +460,8 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 1654.796531271513,
-			"y": -1392.0705666869806,
+			"x": 1667.5552918259066,
+			"y": -750.9453431981353,
 			"rotation": 0,
 			"isLocked": false,
 			"opacity": 1,
@@ -620,8 +620,8 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 2074.7965312715132,
-			"y": -972.0705666869806,
+			"x": 2087.555291825907,
+			"y": -330.94534319813533,
 			"rotation": 0,
 			"isLocked": false,
 			"opacity": 1,
@@ -654,8 +654,8 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 1234.796531271513,
-			"y": -972.0705666869806,
+			"x": 1247.5552918259066,
+			"y": -330.94534319813533,
 			"rotation": 0,
 			"isLocked": false,
 			"opacity": 1,
@@ -746,8 +746,8 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 2488.806508000467,
-			"y": -1390.1986915554157,
+			"x": 2501.5652685548607,
+			"y": -749.0734680665705,
 			"rotation": 0,
 			"isLocked": false,
 			"opacity": 1,
@@ -780,8 +780,8 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 2284.7965312715132,
-			"y": -972.0705666869806,
+			"x": 2297.555291825907,
+			"y": -330.94534319813533,
 			"rotation": 0,
 			"isLocked": false,
 			"opacity": 1,
@@ -814,12 +814,56 @@
 			"typeName": "shape"
 		},
 		{
+			"x": 273.3807615264864,
+			"y": 258.2113961914029,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:gb__aFGw9xeVQSs7wsYR_",
+			"type": "text",
+			"props": {
+				"color": "red",
+				"size": "m",
+				"w": 178.22500610351562,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "dynamic route"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "apGhE",
+			"typeName": "shape"
+		},
+		{
 			"editingShapeId": null,
 			"croppingShapeId": null,
 			"selectedShapeIds": [
 				"shape:mWc7fwYf6qv22AGb86mAi",
 				"shape:LqdH46OvanLjHQIA_0On8",
 				"shape:9n5A3maMcpsZ-VVPFor4h",
+				"shape:nisSBGNn53rUNvEhxawfn",
+				"shape:bb6s0NyLWiRX5whDk0oax",
 				"shape:SLcR0Ro5nOzWTEDlT4X2o",
 				"shape:cFauwYa0j8NPXDEPotI8R",
 				"shape:ZZbZO9TeLnXFfurDFiZV_",
@@ -850,8 +894,8 @@
 			"typeName": "instance_page_state"
 		},
 		{
-			"x": 2068.806508000467,
-			"y": -1390.1986915554157,
+			"x": 2081.5652685548607,
+			"y": -749.0734680665705,
 			"rotation": 0,
 			"isLocked": false,
 			"opacity": 1,
@@ -884,8 +928,8 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 2278.806508000467,
-			"y": -1180.1986915554157,
+			"x": 2291.5652685548607,
+			"y": -539.0734680665705,
 			"rotation": 0,
 			"isLocked": false,
 			"opacity": 1,
@@ -957,8 +1001,8 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 1654.796531271513,
-			"y": -1182.0705666869806,
+			"x": 1667.5552918259066,
+			"y": -540.9453431981353,
 			"rotation": 0,
 			"isLocked": false,
 			"opacity": 1,
@@ -1025,8 +1069,8 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 1234.796531271513,
-			"y": -1392.0705666869806,
+			"x": 1247.5552918259066,
+			"y": -750.9453431981353,
 			"rotation": 0,
 			"isLocked": false,
 			"opacity": 1,
@@ -1083,8 +1127,8 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 1795.2542027199006,
-			"y": -1532.9416768582964,
+			"x": 1808.0129632742942,
+			"y": -891.8164533694512,
 			"rotation": 0,
 			"isLocked": false,
 			"opacity": 1,
@@ -1171,8 +1215,8 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 1654.796531271513,
-			"y": -972.0705666869806,
+			"x": 1667.5552918259066,
+			"y": -330.94534319813533,
 			"rotation": 0,
 			"isLocked": false,
 			"opacity": 1,
@@ -1205,8 +1249,8 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 2074.7965312715132,
-			"y": -1182.0705666869806,
+			"x": 2087.555291825907,
+			"y": -540.9453431981353,
 			"rotation": 0,
 			"isLocked": false,
 			"opacity": 1,
@@ -1273,8 +1317,8 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 1864.796531271513,
-			"y": -972.0705666869806,
+			"x": 1877.5552918259066,
+			"y": -330.94534319813533,
 			"rotation": 0,
 			"isLocked": false,
 			"opacity": 1,
@@ -1392,9 +1436,21 @@
 				"color": "light-violet",
 				"richText": {
 					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
 					"content": [
 						{
-							"type": "paragraph"
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "ofter the route use thise colon : then rout is dynamc"
+								}
+							]
 						}
 					]
 				},
@@ -1407,15 +1463,15 @@
 				"fontSizeAdjustment": 1,
 				"url": "",
 				"scale": 1,
-				"textLastEditedBy": null
+				"textLastEditedBy": "HclpebtS7WdVJUhKmHC2Q"
 			},
 			"parentId": "page:page",
 			"index": "a6ogz",
 			"typeName": "shape"
 		},
 		{
-			"x": 1444.796531271513,
-			"y": -1392.0705666869806,
+			"x": 1457.5552918259066,
+			"y": -750.9453431981353,
 			"rotation": 0,
 			"isLocked": false,
 			"opacity": 1,
@@ -1448,8 +1504,8 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 1444.796531271513,
-			"y": -1182.0705666869806,
+			"x": 1457.5552918259066,
+			"y": -540.9453431981353,
 			"rotation": 0,
 			"isLocked": false,
 			"opacity": 1,
@@ -1524,8 +1580,8 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 2494.796531271513,
-			"y": -972.0705666869806,
+			"x": 2507.5552918259064,
+			"y": -330.94534319813533,
 			"rotation": 0,
 			"isLocked": false,
 			"opacity": 1,
@@ -1632,12 +1688,7 @@
 		{
 			"followingUserId": null,
 			"opacityForNextShape": 1,
-			"stylesForNextShape": {
-				"tldraw:geo": "rectangle",
-				"tldraw:color": "red",
-				"tldraw:font": "draw",
-				"tldraw:size": "xl"
-			},
+			"stylesForNextShape": {},
 			"brush": null,
 			"scribbles": [],
 			"cursor": {
@@ -1715,8 +1766,50 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 1864.796531271513,
-			"y": -1182.0705666869806,
+			"x": 123.74412175222199,
+			"y": 258.80677988659045,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:4u6IhhLpnbjz0tWpN6tgH",
+			"type": "text",
+			"props": {
+				"color": "red",
+				"size": "m",
+				"w": 59.0625,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Json"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aomnj",
+			"typeName": "shape"
+		},
+		{
+			"x": 1877.5552918259066,
+			"y": -540.9453431981353,
 			"rotation": 0,
 			"isLocked": false,
 			"opacity": 1,
@@ -1749,8 +1842,8 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 1864.796531271513,
-			"y": -1392.0705666869806,
+			"x": 1877.5552918259066,
+			"y": -750.9453431981353,
 			"rotation": 0,
 			"isLocked": false,
 			"opacity": 1,
@@ -1864,8 +1957,8 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 2488.806508000467,
-			"y": -1180.1986915554157,
+			"x": 2501.5652685548607,
+			"y": -539.0734680665705,
 			"rotation": 0,
 			"isLocked": false,
 			"opacity": 1,
