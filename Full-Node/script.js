@@ -24,21 +24,26 @@ app.use(function (req,res,next) {
 });
 
 app.use(function (req,res,next) {
-  console.log('m iddle wher 2st time chala');
+  console.log('middle 2st time chala');
   next();
 });
 
-app.get('/',function (req, res,next) {
+app.get('/',function (req, res) {
   res.send("No Rout page ha ya")
-});
+}); 
 
 app.get('/about', function(req,res) {
   res.send("<h1>about page ha ya<h1>")
 });
 
+app.get('/contact', function(req,res) {
+  res.send("<h1>contact page ha ya<h1>")
+});
+
 app.get('/profile', function(req,res,next) {
   return next(new Error("Some think went rong"))
 });
+
 
 app.use((err, req, res, next) => {
   console.error(err.stack);
@@ -46,4 +51,3 @@ app.use((err, req, res, next) => {
 });
 
 app.listen(3000);
-
