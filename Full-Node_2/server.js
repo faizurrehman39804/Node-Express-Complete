@@ -14,6 +14,7 @@ app.get('/about', (req, res) => {
 });
 
 app.listen(3000, () => {
+  console.log("okk server is running is Good");
+  
   console.log('Server is running on port 3000');
 });
-
